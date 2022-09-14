@@ -5,4 +5,7 @@ int main(){
     string name = "Ajeet Patel";
 
     cout<<name<<endl;
+
+    string email = "patelajeet1606@gmail.com";
+    cout<<email;
 }
