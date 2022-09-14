@@ -7,5 +7,8 @@ int main(){
     cout<<name<<endl;
 
     string email = "patelajeet1606@gmail.com";
-    cout<<email;
+    cout<<email<<endl;
+
+    string address = "Allahabad/India";
+    cout<<address;
 }
