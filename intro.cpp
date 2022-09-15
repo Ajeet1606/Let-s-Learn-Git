@@ -11,4 +11,7 @@ int main(){
 
     string address = "Allahabad/India";
     cout<<address;
+
+    string qualification = "Bachelors";
+    cout<<qualification;
 }
